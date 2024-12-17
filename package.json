@@ -33,6 +33,14 @@
     "rollup-plugin-terser": "^5.2.0",
     "watchify": "^3.11.1"
   },
+  "resolutions": {
+    "@babel/traverse": "^7.25.0",
+    "semver": "^7.5.3",
+    "cookie": "^0.7.0",
+    "braces": "^3.0.3",
+    "ws": "^7.5.10",
+    "micromatch": "^4.0.8"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/zurb/tribute.git"
